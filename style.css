@@ -1,4 +1,39 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color: whitesmoke;
+    padding: 4em 2em;
+}
 
 
+h1{
+    color:grey;
+    font-family: sans-serif;
+    font-size: 2rem;
+    margin-bottom: 1.25em;
+}
+
+label {
+    font-family: sans-serif;
+    margin-bottom: 1em;
+    display: block;
+}
+
+
+input {
+    display: block;
+    margin-bottom: 2em;
+}
+
+p {
+    color:grey;
+    font-family: sans-serif;
+}
+
+button {
+    background-color: coral;
+    font-size: 1rem;
+    padding: 0.5em 1em;
+    border: none;
+    color: white;
+    border-radius: 0.75rem;
+    cursor: pointer;
+}
